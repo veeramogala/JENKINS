@@ -1,5 +1,5 @@
 def main():
-    print("Hii webhook, Jenkins!")
+    print("Hello webhook, Jenkins!")
 
 if __name__ == "__main__":
     main()
